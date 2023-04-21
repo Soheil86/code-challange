@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Create Fibonacci class",
+    "description": "In order to estimate a efforts for upcoming tasks, a product owner likes to map all the developers estimates to such fibonacci numbers and asks you the write a class providing the closest fibonacci number, matching the users input.",
+    "effort": 2
+  },
+  {
+    "id": 2,
+    "name": "Create a Task GUI",
+    "description": "Develop a simple GUI displaying Tasks with their description and efforts.",
+    "effort": 5
+  },
+  {
+    "id": 3,
+    "name": "Submit sources",
+    "description": "Zip your sources, or put them to some Github Repository. Send a mail to trinamiX with your submission.",
+    "effort": 1
+  }
+]
